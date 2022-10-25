@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141278791946",
+    "project_id": "real-messsenger",
+    "storage_bucket": "real-messsenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141278791946:android:99f7d6cbce522ef9ed92f3",
+        "android_client_info": {
+          "package_name": "com.prathmeshadsod.realmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141278791946-tpl3bik1kcqrg9phd1bodh53jn61iar8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBli6dmm_5GxQtJ7Jn2e5EqBqGrIRlq3rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141278791946-tpl3bik1kcqrg9phd1bodh53jn61iar8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
